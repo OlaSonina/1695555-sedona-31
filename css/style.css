@@ -83,7 +83,7 @@ img {
 /* Welcome */
 
 .part-welcome {
-  background-image: url("img/background_photo.img");
+  background-image: url("/img/background_photo.jpg");
   background-position: top center;
   background-repeat: no-repeat;
 }
@@ -206,7 +206,7 @@ img {
 /* Catalog */
 
 .checkbox {
-  background-image: url(img/background-catalog.img);
+  background-image: url(/img/background_catalog.jpg);
   font-size: 16px;
   line-height: 21px;
   color: var(--basic-white);
